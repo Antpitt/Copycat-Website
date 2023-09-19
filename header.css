@@ -1,0 +1,26 @@
+header img {
+  width: 100%;
+}
+
+
+.section-head{
+  color: grey;
+  position: absolute;
+  top: 375px;
+  left: 0;
+  z-index: 1;
+}
+
+
+.section-article {
+  color: white;
+  width: 20%;
+  position: absolute;
+  top: 400px;
+  left: 0;
+  z-index: 1;
+}
+
+nav {
+  position: sticky;
+}
