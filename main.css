@@ -1,0 +1,53 @@
+section img {
+    padding: 10px;
+}
+
+main {
+    background-color: black;
+}
+
+main p {
+    color: white;
+    display: inline;
+    padding-right: 80px;
+    padding-left: 80px;
+}
+
+section h3 {
+    color: white;
+}
+
+section {
+    
+}
+
+.top-picks-text {
+  padding-bottom: 50px;
+}
+
+.watching-text {
+    padding-bottom: 50px;
+
+    position: relative;
+
+}
+
+.watching-text-2 {
+ position: absolute;
+ left: 450px;
+}
+
+.watching-text-3 {
+    position: absolute;
+    left: 800px;
+}
+
+.watching-text-4 {
+    position: absolute;
+    left: 1200px;
+}
+
+.watching-text-5 {
+    position: absolute;
+    left: 1500px;
+}
